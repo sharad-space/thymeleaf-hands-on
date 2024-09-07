@@ -3,7 +3,8 @@ Thymeleaf Hands-On Project:
 This project is a demonstration of using Thymeleaf as a templating engine in a Spring Boot application. 
 It covers the integration of Thymeleaf with Spring Boot for building dynamic HTML pages with ease.
 
-Features
+Features:
+
 .Dynamic Content Rendering: Use Thymeleaf to inject dynamic data from Spring Boot controllers into HTML templates.
 .Spring Boot Integration: Seamless integration of Thymeleaf with Spring Boot.
 .Form Handling: Create and process forms with Thymeleaf and Spring Boot.
